@@ -18,9 +18,3 @@ Estudo Sistemas de Informação na Universidade Facimp Wyden, Imperatriz-MA.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=henriquexpaulo&icon=2&color=1)](https://visitcount.itsvg.in)
-
